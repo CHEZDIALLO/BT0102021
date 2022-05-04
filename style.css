@@ -1,0 +1,10 @@
+.nav-item a:hover {
+    color: #0071BC !important;
+    cursor: pointer; 
+}
+.h1{
+    color: #0071BC !important;
+}
+.carousel-control-prev{
+    color: #0071BC;
+}

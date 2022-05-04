@@ -1,0 +1,10 @@
+INSERT INTO `produit` (`id_produit`, `reference`, `categorie`, `titre`, `description`, `couleur`, `taille`, `public`, `photo`, `prix`, `stock`) VALUES
+(37, 'R001', 'tshirt', 'Thisrt bleu', 'Super thisrt bleu !', 'bleu', 'L', 'm', 'tshirtbleum.jpg', 14, 81),
+(38, 'R002', 'tshirt', 'Thisrt vert', 'Super thisrt vert !', 'vert', 'M', 'm', 'tshirtvertm.jpg', 15, 71),
+(39, 'R003', 'tshirt', 'Thisrt jaune', 'Super thisrt jaune !', 'jaune', 'XL', 'f', 'ref3_jaune.png', 16, 65),
+(40, 'R004', 'tshirt', 'Thisrt rouge', 'Super thisrt rouge !', 'rouge', 'S', 'f', '66-f-15_rouge.png', 17, 53),
+(41, 'R005', 'tshirt', 'Thisrt noir', 'Super thisrt noir !', 'noir', 'XXL', 'mixte', 'R007_31-p-33_noir.jpg', 18, 54),
+(42, 'R006', 'chemise', 'Chemise rayée', 'Superbe chemise !', 'noir', 'L', 'm', 'chemisenoirm.jpg', 34, 39),
+(43, 'R007', 'chemise', 'Chemise blanche', 'Superbe chemise !', 'blanche', 'M', 'm', '56-a-65_chemiseblanchem.jpg', 36, 29),
+(44, 'R008', 'divers', 'Pull', 'Superbe pull !', 'gris', 'L', 'm', 'pullgrism2.jpg', 30, 18),
+(45, 'R009', 'divers', 'Bottes', 'Superbes bottes !', 'marron', 'S', 'f', 'bottenoirf.jpg', 45, 8);
